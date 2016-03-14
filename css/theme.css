@@ -204,6 +204,9 @@ button.close:hover {
     top: 1rem;
     right: 2rem;
     margin-top: 0;
-    margin-bottom: 0; } }
+    margin-bottom: 0; }
+
+  #whybernie li {
+    font-size: 1.5rem; } }
 
 /*# sourceMappingURL=theme.css.map */
