@@ -131,8 +131,8 @@ a:focus, a:hover {
 #whybernie li {
   list-style: none; }
 
-#recordlist {
-  margin: 2rem 3rem; }
+div#votingrecord {
+  margin: 2rem 1rem; }
 
 #delegateswon {
   max-width: 100% !important;
