@@ -127,6 +127,13 @@ a:focus, a:hover {
 #votingrecord {
   margin: 2rem 1rem; }
 
+#contact {
+  text-align: center; }
+
+.fa-bullhorn {
+  font-size: 10rem;
+  color: #C62828; }
+
 #delegateswon {
   max-width: 100% !important;
   width: 100%;
@@ -173,11 +180,9 @@ button.close:hover {
   font-size: 2rem;
   vertical-align: middle; }
 
-.fa {
-  color: #ffffff; }
-
 .social .fa {
-  cursor: pointer; }
+  cursor: pointer;
+  color: #ffffff; }
 
 .social .fa:hover {
   color: #C62828; }
